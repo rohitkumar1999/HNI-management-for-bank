@@ -1,6 +1,6 @@
 # HNI-management-for-bank
 A system which - <br/>
-Detects a high net worth individual(or multiple HNI) through cctv camera feed when they enter the branch.
+1.Detects a high net worth individual(or multiple HNI) through cctv camera feed when they enter the branch.
 Immediately sends out alert to branch head(through internal system alert, sms or by any other means).
 Put a track on the person/people of interest and render it on the screen so that the branch head may easily see the precise location of the high net worth customer/s and arrange for the immediate service with minimum waiting time.<br/><br/>
 2. 	A mobile app which imitates the syndicate bank mobile banking app by which
